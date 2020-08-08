@@ -4,4 +4,4 @@ I'm Aleksander Skubała, hobbyist fullstack JavaScript developer. I work in Reac
 
 ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksanderskubala&layout=compact&theme=nightowl&show_icons=true)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=aleksanderskubala)
+![My github stats](https://github-readme-stats.vercel.app/api?username=aleksanderskubala&theme=nightowl&show_icons=true)
