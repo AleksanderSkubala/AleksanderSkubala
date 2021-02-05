@@ -1,6 +1,6 @@
 ## Hi people! 👋🤟
 
-I'm Aleksander Skubała, hobbyist fullstack, but mostly front-end developer. Most often I make my projects in: Vue, React, Node.js + Express. I also use Static Site Generators like Gatsby or Gridsome.
+I'm Aleksander Skubała, hobbyist front-end developer. Most often I make my projects in: Vue, React, Node.js + Express. I also use Static Site Generators like Gatsby or Gridsome.
 I love fixing problems by creating apps and I'm amazed by fact, that there are still so many technologies that I can learn in future 🔥
 
 ### My Projects:
