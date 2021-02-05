@@ -5,6 +5,6 @@ I'm Aleksander Skubała, hobbyist fullstack JavaScript developer. I work in Reac
 <h3 align="center">My stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksanderSkubala&layout=compact" width="400" alt="Languages" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksanderSkubala&layout=compact&hide=php" width="400" alt="Languages" /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=AleksanderSkubala&count_private=true&show_icons=true" width="400" alt="My stats" />
 </p>
