@@ -7,6 +7,7 @@ I love fixing problems by creating apps and I'm amazed by the fact, that there a
 
 - [Cognitive](https://github.com/cognitive-pl/cognitive-next) - App which I created to help others in planning and more effective learning (Vue + Antd + Firebase)
 - [Writes](https://github.com/writesapp/website) - Platform which lets people share their knowledge (React + Antd + Firebase)
+- [School excel](https://github.com/AleksanderSkubala/school-excel) - Solution for a high school in Poznań to help with organizing book lists and curriculums for over 900 students.
 - [ZEUS](https://github.com/AleksanderSkubala/zeus) - Landing page created by me for the scout troop called "Zeus" (Vue + Gridsome + Netlify CMS)
 - [100 pushups](https://github.com/AleksanderSkubala/100-pushups) - A simple app for planning push-ups based pieces of training (Vue)
 - [App for lazy](https://github.com/AleksanderSkubala/app-for-lazy) - App with physics formulas for my friends from the faculty of mathematics and physics (React + Material)
